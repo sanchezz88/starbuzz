@@ -1,0 +1,17 @@
+{
+  "name": "starbuzz",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "sanchezz88 <sanchezz88@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
